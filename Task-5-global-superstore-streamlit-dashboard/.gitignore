@@ -1,0 +1,4 @@
+.pydeps/
+.venv/
+streamlit.err.log
+streamlit.out.log
